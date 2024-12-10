@@ -1,0 +1,14 @@
+{
+  "name": "agent-studio-ai",
+  "version": "1.0.0",
+  "description": "AI Agents Marketplace Frontend",
+  "scripts": {
+    "start": "serve .",
+    "dev": "live-server --port=3000",
+    "build": "echo 'No build required for static files'"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "serve": "^14.2.1"
+  }
+}
